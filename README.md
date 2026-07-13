@@ -1,4 +1,8 @@
 <p align="center">
+  <h1> i am</h1>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Low-Level+%26+Compiler+Engineer;Malware+Analysis+%26+Reverse+Engineering;Quantum+Computing+%26+Post-Quantum+Crypto;Hardware+Engineering+%26+Firmware+Exploitation;Cloud+Security+%26+Infrastructure+Hardening" alt="Typing SVG" />
 </p>
 
