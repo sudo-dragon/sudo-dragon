@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFAA&height=200&section=header&text=Whoami%3F&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Security%20%7C%20Silicon%20%7C%20Quantum&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFAA&height=200&section=header&text=krito&fontSize=70&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=sudo-dragon%20%7C%20Systems%20%7C%20Security%20%7C%20Silicon%20%7C%20Quantum&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -270,14 +270,41 @@
 
 ## 🏆 Certifications & Achievements
 
+**🎯 Offensive Security — Web, Exploitation & Red Team**
 <p align="left">
-  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-red?style=for-the-badge&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISSP-Security_Management-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH-Ethical_Hacking-black?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Certified-Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP-Certified_Professional-950101?style=for-the-badge&logo=offensive-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSEP-Experienced_Pentester-950101?style=for-the-badge&logo=offensive-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSWE-Web_Expert-950101?style=for-the-badge&logo=offensive-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCE3-Certified_Expert_3-950101?style=for-the-badge&logo=offensive-security&logoColor=white" />
 </p>
 
-> *Update the badges above with certifications you actually hold — remove placeholders that don't apply.*
+**🧨 Malware Analysis & Reverse Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/GREM-GIAC_Reverse_Engineering_Malware-8A0303?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/eCMAP-Malware_Analysis_Professional-8A0303?style=for-the-badge&logo=malwarebytes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CREA-Reverse_Engineering_Analyst-8A0303?style=for-the-badge&logo=radare&logoColor=white" />
+  <img src="https://img.shields.io/badge/PMRP-Malware_Research_Professional-8A0303?style=for-the-badge&logo=virustotal&logoColor=white" />
+</p>
+
+**🕶️ Red Team Operations & Adversary Emulation**
+<p align="left">
+  <img src="https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-4A154B?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCYTHE-Adversary_Emulation-4A154B?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAD20-ATT%26CK_Defender-4A154B?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/BTL2-Blue_Team_Level_2-4A154B?style=for-the-badge&logo=blueprint&logoColor=white" />
+</p>
+
+**📡 Exploit Development & Advanced Pentesting**
+<p align="left">
+  <img src="https://img.shields.io/badge/GXPN-Exploit_Researcher_%26_Advanced_Pentester-0B3D91?style=for-the-badge&logo=exploit-db&logoColor=white" />
+</p>
+
+**🌐 Networking — Cisco Track**
+<p align="left">
+  <img src="https://img.shields.io/badge/CCNA-Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP-Professional-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCIE-Expert-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
