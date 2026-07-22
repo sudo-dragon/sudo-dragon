@@ -1,11 +1,16 @@
 <p align="center">
-  <h1> I am</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFAA&height=200&section=header&text=Whoami%3F&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Systems%20%7C%20Security%20%7C%20Silicon%20%7C%20Quantum&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Low-Level+%26+Compiler+Engineer;Malware+Analysis+%26+Reverse+Engineering;Quantum+Computing+%26+Post-Quantum+Crypto;Hardware+Engineering+%26+Firmware+Exploitation;Cloud+Security+%26+Infrastructure+Hardening" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudo-dragon&style=for-the-badge&color=00FFAA&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sudo-dragon?style=for-the-badge&color=00FFAA&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-BREAKING_THINGS_RESPONSIBLY-red?style=for-the-badge&labelColor=000000" alt="Status" />
+</p>
 
 ---
 
@@ -47,6 +52,9 @@
 - [🧬 Bio-Computing & Computational Genomics](#-bio-computing--computational-genomics)
 - [🧠 AI Security & Red Teaming](#-ai-security--red-teaming)
 - [🌐 Web Application Security](#-web-application-security)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🏆 Certifications & Achievements](#-certifications--achievements)
+- [📫 Let's Connect](#-lets-connect)
 
 ---
 
@@ -239,6 +247,54 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudo-dragon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-dragon&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-dragon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-dragon&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=ffffff" alt="Contribution Graph" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-dragon&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISSP-Security_Management-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-Ethical_Hacking-black?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified-Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+> *Update the badges above with certifications you actually hold — remove placeholders that don't apply.*
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  Open to collaborations in <b>reverse engineering</b>, <b>compiler tooling</b>, <b>quantum-safe cryptography</b>, and <b>offensive security research</b>.
+  <br/>
+  Check out my repos on <a href="https://github.com/sudo-dragon"><b>github.com/sudo-dragon</b></a> — always happy to talk low-level systems, exploits, or quantum weirdness.
+</p>
+
+---
+
 <p align="center">
   <b>⚡ "The only way to understand a system is to break it, rebuild it, and break it again." ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 </p>
